@@ -84,6 +84,7 @@ while(True):
         print("El monito te sopla dónde está escondido el tesoro.")
         print(" \n\n\n >>> MUY BIEEEEEN FINAL FELIZ!!!! <<< \n\n\n ")
         print("...bueno... ejem... si consigues volver al barco.")
+        capitulo = 999
 
     #Capítulo 999 significa SALIR
     elif capitulo == 999:
